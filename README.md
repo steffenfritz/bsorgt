@@ -9,8 +9,8 @@ Das verwendete Verfahren orientiert sich an dem aus den Medien bekannten Selekto
 
 # Aufruf
 
-Durch den Einsatz komplexer STDIN-Verfahren sind unterschiedliche Eingaben der zu testenden Daten möglich:
+Durch den Einsatz komplexer STDIN-Verfahren können die zu testenden Daten direkt auf der Kommandozeile an das Programm
+übergeben werden:
 
-1) python bsorgt.py "string"
 
-2) python bsorgt.py -f TEXTFILE
+    python bsorgt.py "string"
