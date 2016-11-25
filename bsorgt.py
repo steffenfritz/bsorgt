@@ -11,9 +11,8 @@ import sys
 def main():
     """main function
     """
-    test_string = sys.argv[1]
 
-    if " !!!" in test_string:
+    if " !!!" in sys.argv[1]:
         print("Result: p=0.9 --> WUT")
 
 if __name__ == '__main__':
