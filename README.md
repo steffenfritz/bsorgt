@@ -1,6 +1,6 @@
 # bsorgt
 
-Dieses fortschritliche Tool erkennt Postings von Wutbürgern und anderen unangenehmen Internetschreihälsen.
+Dieses fortschrittliche Tool erkennt Postings von Wutbürgern und anderen unangenehmen Internetschreihälsen.
 
 Die modular-rekurrente Bayes-Hebb-Delta-Architektur erkennt Trashstrings mit p=0.9
 
